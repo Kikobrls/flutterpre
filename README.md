@@ -1,5 +1,4 @@
-   cd C:\Users\Administrator\Downloads\flutter-dewakoding-presensi-v.1.5.1\DewakodingPresensi-Flutter-Tutorial-1.5.1
-   # dewakoding_presensi
+# dewakoding_presensi
 
 A new Flutter project.
 
