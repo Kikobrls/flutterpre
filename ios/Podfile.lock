@@ -1,0 +1,72 @@
+PODS:
+  - Alamofire (5.9.1)
+  - device_info_plus (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_osm_plugin (0.0.1):
+    - Alamofire
+    - Flutter
+    - OSMFlutterFramework
+    - Polyline
+    - Yams
+  - geolocator_apple (1.2.0):
+    - Flutter
+  - OSMFlutterFramework (0.6.5)
+  - permission_handler_apple (9.3.0):
+    - Flutter
+  - Polyline (5.1.0)
+  - shared_preferences_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - url_launcher_ios (0.0.1):
+    - Flutter
+  - Yams (5.0.6)
+
+DEPENDENCIES:
+  - device_info_plus (from `.symlinks/plugins/device_info_plus/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_osm_plugin (from `.symlinks/plugins/flutter_osm_plugin/ios`)
+  - geolocator_apple (from `.symlinks/plugins/geolocator_apple/ios`)
+  - permission_handler_apple (from `.symlinks/plugins/permission_handler_apple/ios`)
+  - shared_preferences_foundation (from `.symlinks/plugins/shared_preferences_foundation/darwin`)
+  - url_launcher_ios (from `.symlinks/plugins/url_launcher_ios/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - OSMFlutterFramework
+    - Polyline
+    - Yams
+
+EXTERNAL SOURCES:
+  device_info_plus:
+    :path: ".symlinks/plugins/device_info_plus/ios"
+  Flutter:
+    :path: Flutter
+  flutter_osm_plugin:
+    :path: ".symlinks/plugins/flutter_osm_plugin/ios"
+  geolocator_apple:
+    :path: ".symlinks/plugins/geolocator_apple/ios"
+  permission_handler_apple:
+    :path: ".symlinks/plugins/permission_handler_apple/ios"
+  shared_preferences_foundation:
+    :path: ".symlinks/plugins/shared_preferences_foundation/darwin"
+  url_launcher_ios:
+    :path: ".symlinks/plugins/url_launcher_ios/ios"
+
+SPEC CHECKSUMS:
+  Alamofire: f36a35757af4587d8e4f4bfa223ad10be2422b8c
+  device_info_plus: 97af1d7e84681a90d0693e63169a5d50e0839a0d
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  flutter_osm_plugin: 5ba7a278863c01035d8c11b1a16f87cacac37f3c
+  geolocator_apple: 6cbaf322953988e009e5ecb481f07efece75c450
+  OSMFlutterFramework: b003024f211cd4de5521bd43975f1d0f49278daa
+  permission_handler_apple: 9878588469a2b0d0fc1e048d9f43605f92e6cec2
+  Polyline: 2a1f29f87f8d9b7de868940f4f76deb8c678a5b1
+  shared_preferences_foundation: fcdcbc04712aee1108ac7fda236f363274528f78
+  url_launcher_ios: 5334b05cef931de560670eeae103fd3e431ac3fe
+  Yams: e10dae147f517ed57ecae37c5e8681bdf8fcab65
+
+PODFILE CHECKSUM: a57f30d18f102dd3ce366b1d62a55ecbef2158e5
+
+COCOAPODS: 1.15.2
